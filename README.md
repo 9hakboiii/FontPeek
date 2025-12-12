@@ -9,3 +9,9 @@
 - 목적
   > 유튜브 크리에이터들이 콘텐츠 제작에 필요한 폰트 트렌드 인사이트를 제공하여
   > 더 나은 시각적 효과와 사용자 경험을 창출할 수 있도록 지원합니다.
+
+---
+
+### 25.12.12 변경(예정) 사항
+- Django -> FastApi 프레임워크 변경
+- 기존 모델에서 [font-identifier](https://huggingface.co/gaborcselle/font-identifier)로 변경
